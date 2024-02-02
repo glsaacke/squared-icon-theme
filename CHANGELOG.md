@@ -1,3 +1,10 @@
+## [v0.1.0]
+2/3/2024
+
+### Fixed
+- Icon styles json overhaul
+- Theme now fully functional: more icons to come soon
+
 ## [v0.0.3]
 2/2/2024
 

@@ -1,0 +1,74 @@
+{
+    "iconDefinitions": {
+        "folderDefalut": {
+            "iconPath": "../icons/default-icons/SQ-folder.svg",
+        },
+        "fileDefault": {
+            "iconPath": "../icons/default-icons/SQ-file.svg",
+            "fontSize": "",
+        },
+        "rootFolder": {
+            "iconPath": "../icons/file-icons/SQ-circleClosed.svg",
+        },
+        "rootFolderOpen": {
+            "iconPath": "../icons/file-icons/SQ-circleOpen.svg",
+        },
+       "javascript": {
+            "iconPath": "../icons/file-icons/SQ-JavaScript.svg",
+        },
+        "html": {
+            "iconPath": "../icons/file-icons/SQ-html.svg",
+        },
+        "css": {
+            "iconPath": "../icons/file-icons/SQ-css.svg",
+        },
+        "C#": {
+            "iconPath": "../icons/file-icons/SQ-c#.svg",
+        },
+        "json": {
+            "iconPath": "../icons/file-icons/SQ-json.svg",
+        },
+        "readme": {
+            "iconPath": "../icons/file-icons/SQ-readme.svg",
+        },
+        "md": {
+            "iconPath": "../icons/file-icons/SQ-md.svg",
+        },
+        "image": {
+            "iconPath": "../icons/file-icons/SQ-image.svg",
+        },
+        "vscode": {
+            "iconPath": "../icons/file-icons/SQ-vscode.svg",
+        },
+        "git": {
+            "iconPath": "../icons/file-icons/SQ-git.svg",
+        },
+        "txt": {
+            "iconPath": "../icons/file-icons/SQ-txt.svg",
+        },
+    },
+
+    //Associations
+    "folder": "folderDefalut",
+    "file": "fileDefault",
+    "rootFolder": "rootFolder",
+    "rootFolderExpanded": "rootFolderOpen",
+    "fileExtensions": {
+        "js": "javascript",
+        "html": "html",
+        "css": "css",
+        "cs": "C#",
+        "json": "json",
+        "md": "md",
+        "PNG": "image",
+        "png": "image",
+        "jpg": "image",
+        "svg": "image",
+        "vscodeignore": "vscode",
+        "gitignore": "git",
+        "txt": "txt",
+    },
+    "fileNames": {
+        "README.md": "readme",
+    }
+}

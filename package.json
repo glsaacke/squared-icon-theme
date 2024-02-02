@@ -17,19 +17,20 @@
     "minimal"
   ],
   "engines": {
-    "vscode": "^1.x.x"
+    "vscode": "^1.86.0"
   },
   "categories": [
     "Other"
   ],
   "activationEvents": [],
   "main": "./extension.js",
+
   "contributes": {
-    "themes": [
+    "iconThemes": [
       {
         "id": "squared-icon-theme",
         "label": "Squared Icon Theme",
-        "path": "./styles/base.css"
+        "path": "./styles/icon-theme.json"
       }
     ],
     "commands": [

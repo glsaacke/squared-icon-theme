@@ -1,40 +1,48 @@
 /* Default icons */
-.file-icon {
+.explorer-viewlet .file-icon {
     background-image: url('../icons/defalut-icons/SQ-file.svg');
+    display: block;
 }
 
-.folder-icon {
+.explorer-viewlet .folder-icon {
     background-image: url('../icons/defalut-icons/SQ-folder.svg');
+    display: block;
 }
 
 
 /* File icons */
-.file-icon[title="c#"]{
+.explorer-viewlet .file-icon[title="c#"]{
     background-image: url('../icons/file-icons/SQ-c#.svg');
+    display: block;
 }
 
-.file-icon[title="css"]{
+.explorer-viewlet .file-icon[title="css"]{
     background-image: url('../icons/file-icons/SQ-css.svg');
+    display: block;
 }
 
-.file-icon[title="html"]{
+.explorer-viewlet .file-icon[title="html"]{
     background-image: url('../icons/file-icons/SQ-html.svg');
+    display: block;
 }
 
-.file-icon[title="javascript"]{
+.explorer-viewlet .file-icon[title="javascript"]{
     background-image: url('../icons/file-icons/SQ-JavaScript.svg');
 }
 
-.file-icon[tile="image"]{
+.explorer-viewlet .file-icon[tile="image"]{
     background-image: url('../icons/file-icons/SQ-image.svg');
+    display: block;
 }
 
 
 /* Folder icons */
-.root-folder-icon {
+.explorer-viewlet .root-folder-icon {
     background-image: url('../icons/file-icons/SQ-circleClosed.svg');
+    display: block;
 }
 
-.root-folder-icon[open] {
+.explorer-viewlet .root-folder-icon[open] {
     background-image: url('../icons/file-icons/SQ-circleOpen.svg');
+    display: block;
 }
