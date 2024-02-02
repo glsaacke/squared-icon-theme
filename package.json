@@ -17,7 +17,7 @@
     "minimal"
   ],
   "engines": {
-    "vscode": "^1.85.2"
+    "vscode": "^1.x.x"
   },
   "categories": [
     "Other"
