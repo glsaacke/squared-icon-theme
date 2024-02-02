@@ -1,0 +1,40 @@
+/* Default icons */
+.file-icon {
+    background-image: url('../icons/defalut-icons/SQ-file.svg');
+}
+
+.folder-icon {
+    background-image: url('../icons/defalut-icons/SQ-folder.svg');
+}
+
+
+/* File icons */
+.file-icon[tile=".c#"]{
+    background-image: url('../icons/file-icons/SQ-c#.svg');
+}
+
+.file-icon[title="css"]{
+    background-image: url('../icons/file-icons/SQ-css.svg');
+}
+
+.file-icon[title="html"]{
+    background-image: url('../icons/file-icons/SQ-html.svg');
+}
+
+.file-icon[title="javascript"]{
+    background-image: url('../icons/file-icons/SQ-JavaScript.svg');
+}
+
+.file-icon[tile="image"]{
+    background-image: url('../icons/file-icons/SQ-image.svg');
+}
+
+
+/* Folder icons */
+.root-folder-icon {
+    background-image: url('../icons/file-icons/SQ-circleClosed.svg');
+}
+
+.root-folder-icon[open] {
+    background-image: url('../icons/file-icons/SQ-circleOpen.svg');
+}
