@@ -9,7 +9,7 @@
 
 
 /* File icons */
-.file-icon[tile=".c#"]{
+.file-icon[title="c#"]{
     background-image: url('../icons/file-icons/SQ-c#.svg');
 }
 
