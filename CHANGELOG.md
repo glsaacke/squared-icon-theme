@@ -1,3 +1,9 @@
+## [v0.0.3]
+2/2/2024
+
+### Fixed
+- Engine compatibility version
+
 ## [v0.0.2]
 2/2/2024
 
