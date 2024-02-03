@@ -1,3 +1,10 @@
+## [v0.1.1]
+2/3/2024
+
+### Added
+- Extension icon
+- Extension example picture
+
 ## [v0.1.0]
 2/3/2024
 

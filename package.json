@@ -16,6 +16,7 @@
     "material",
     "minimal"
   ],
+  "icon": "./images/SQ_LOGO.svg",
   "engines": {
     "vscode": "^1.86.0"
   },

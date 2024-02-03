@@ -1,6 +1,6 @@
 # Squared Icon Theme
 
-![Example Code](https://i.imgur.com/545qLEU.png)
+![Example Image](./Images/SquaredExample.PNG)
 
 ## Contents
 
