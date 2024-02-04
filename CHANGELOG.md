@@ -1,3 +1,9 @@
+## [v0.1.2]
+2/4/2024
+
+### Fixed
+- Logo image rendering incorrectly
+
 ## [v0.1.1]
 2/3/2024
 
