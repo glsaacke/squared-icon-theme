@@ -16,7 +16,7 @@
     "material",
     "minimal"
   ],
-  "icon": "Images/circleLogo.PNG",
+  "icon": "Images/circleLogo.png",
   "engines": {
     "vscode": "^1.86.0"
   },
