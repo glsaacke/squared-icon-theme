@@ -1,8 +1,18 @@
+## [v0.1.3]
+2/4/2024
+
+### Fixed
+- Shrunk square icon sizes
+
+
+
 ## [v0.1.2]
 2/4/2024
 
 ### Fixed
 - Logo image rendering incorrectly
+
+
 
 ## [v0.1.1]
 2/3/2024
@@ -11,6 +21,8 @@
 - Extension icon
 - Extension example picture
 
+
+
 ## [v0.1.0]
 2/3/2024
 
@@ -18,11 +30,15 @@
 - Icon styles json overhaul
 - Theme now fully functional: more icons to come soon
 
+
+
 ## [v0.0.3]
 2/2/2024
 
 ### Fixed
 - Engine compatibility version
+
+
 
 ## [v0.0.2]
 2/2/2024
