@@ -1,7 +1,10 @@
 {
     "iconDefinitions": {
-        "folderDefalut": {
+        "folderClosed": {
             "iconPath": "../icons/default-icons/SQ-folder.svg",
+        },
+        "folderOpen": {
+            "iconPath": "../icons/default-icons/SQ-folderOpen.svg"
         },
         "fileDefault": {
             "iconPath": "../icons/default-icons/SQ-file.svg",
@@ -49,7 +52,8 @@
     },
 
     //Associations
-    "folder": "folderDefalut",
+    "folder": "folderClosed",
+    "folderExpanded": "folderOpen",
     "file": "fileDefault",
     "rootFolder": "rootFolder",
     "rootFolderExpanded": "rootFolderOpen",
@@ -70,5 +74,6 @@
     },
     "fileNames": {
         "README.md": "readme",
-    }
+    },
+    "hidesExplorerArrows": true
 }

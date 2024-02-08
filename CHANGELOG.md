@@ -1,3 +1,11 @@
+## [v0.1.4]
+2/8/2024
+
+### Fixed
+- Added open/closed folders
+- Removed explorer arrows
+
+
 ## [v0.1.3]
 2/4/2024
 
