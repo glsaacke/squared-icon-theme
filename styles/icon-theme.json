@@ -19,6 +19,9 @@
        "javascript": {
             "iconPath": "../icons/file-icons/SQ-JavaScript.svg",
         },
+        "typescript": {
+            "iconPath": "../icons/file-icons/SQ-TypeScript.svg",
+        },
         "html": {
             "iconPath": "../icons/file-icons/SQ-html.svg",
         },
@@ -26,7 +29,16 @@
             "iconPath": "../icons/file-icons/SQ-css.svg",
         },
         "C#": {
-            "iconPath": "../icons/file-icons/SQ-c#.svg",
+            "iconPath": "../icons/file-icons/SQ-C#.svg",
+        },
+        "C++": {
+            "iconPath": "../icons/file-icons/SQ-C++.svg"
+        },
+        "java": {
+            "iconPath": "../icons/file-icons/SQ-Java.svg"
+        },
+        "python": {
+            "iconPath": "../icons/file-icons/SQ-Python.svg"
         },
         "json": {
             "iconPath": "../icons/file-icons/SQ-json.svg",
@@ -59,9 +71,13 @@
     "rootFolderExpanded": "rootFolderOpen",
     "fileExtensions": {
         "js": "javascript",
+        "ts": "typescript",
         "html": "html",
         "css": "css",
         "cs": "C#",
+        "cpp": "C++",
+        "java": "java",
+        "py": "python",
         "json": "json",
         "md": "md",
         "PNG": "image",

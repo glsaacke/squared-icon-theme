@@ -10,4 +10,4 @@
 - vscode: code editor
 - yo code: extension generator
 - vsce: publishing tool
-- Azure DevOps: release pipeline, monitoring , and reporting
+- Azure DevOps: release pipeline, monitoring, and reporting
