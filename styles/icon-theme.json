@@ -61,6 +61,12 @@
         "txt": {
             "iconPath": "../icons/file-icons/SQ-txt.svg",
         },
+        "js-test": {
+            "iconPath": "../icons/file-icons/SQ-JSTest.svg",
+        },
+        "csproj": {
+            "iconPath": "../icons/file-icons/SQ-Csproj.svg",
+        },
     },
 
     //Associations
@@ -87,6 +93,8 @@
         "vscodeignore": "vscode",
         "gitignore": "git",
         "txt": "txt",
+        "test.js": "js-test",
+        "csproj": "csproj"
     },
     "fileNames": {
         "README.md": "readme",

@@ -1,3 +1,10 @@
+## [v0.1.6]
+12/27/2024
+
+- Added icon for test.js files
+- Added icon for csproj files
+
+
 ## [v0.1.5]
 3/8/2024
 
