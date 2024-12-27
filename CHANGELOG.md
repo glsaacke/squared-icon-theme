@@ -1,3 +1,9 @@
+## [v0.1.7]
+12/27/2024
+
+- Updated Example Picture on extention page
+
+
 ## [v0.1.6]
 12/27/2024
 
