@@ -67,6 +67,12 @@
         "csproj": {
             "iconPath": "../icons/file-icons/SQ-Csproj.svg",
         },
+        "react": {
+            "iconPath": "../icons/file-icons/SQ-React.svg",
+        },
+        "vite": {
+            "iconPath": "../icons/file-icons/SQ-Vite.svg",
+        },
     },
 
     //Associations
@@ -91,13 +97,20 @@
         "jpg": "image",
         "svg": "image",
         "vscodeignore": "vscode",
+        "vscode-test.mjs": "vscode",
         "gitignore": "git",
         "txt": "txt",
         "test.js": "js-test",
-        "csproj": "csproj"
+        "csproj": "csproj",
+        "jsx": "react",
     },
     "fileNames": {
         "README.md": "readme",
+        "vite.config.js": "vite",
+        "vite.config.ts": "vite",
+        "vite.config.mjs": "vite",
+        "vite.config.cjs": "vite",
+
     },
     "hidesExplorerArrows": true
 }

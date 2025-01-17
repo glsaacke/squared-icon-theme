@@ -1,3 +1,10 @@
+## [v0.1.8]
+1/16/2025
+
+- Added icon for jsx files
+- Added icon for various Vite files
+
+
 ## [v0.1.7]
 12/27/2024
 
