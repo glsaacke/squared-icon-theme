@@ -1,3 +1,10 @@
+## [v0.1.10]
+
+2/20/25
+
+- Minor adjustments to existing icons
+
+
 ## [v0.1.9]
 2/20/2025
 

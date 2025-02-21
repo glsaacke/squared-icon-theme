@@ -106,6 +106,7 @@
         "test.js": "js-test",
         "csproj": "csproj",
         "jsx": "react",
+        "sln": "csproj",
     },
     "fileNames": {
         "README.md": "readme",
