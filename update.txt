@@ -2,7 +2,7 @@ TO RELEASE AN UPDATE
 
 - Open git bash and navigate to project directory
 - Run 'vsce package' ***Don't need to do this
-- Run 'vsce publish (major/minor/patch)'
+- Run 'vsce publish (major/minor/patch)
 
 Check VS Code Marketplace to ensure it updated
 

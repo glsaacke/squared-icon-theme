@@ -73,6 +73,9 @@
         "vite": {
             "iconPath": "../icons/file-icons/SQ-Vite.svg",
         },
+        "docker": {
+            "iconPath": "../icons/file-icons/SQ-Docker.svg",
+        },
     },
 
     //Associations
@@ -110,7 +113,8 @@
         "vite.config.ts": "vite",
         "vite.config.mjs": "vite",
         "vite.config.cjs": "vite",
-
+        "Dockerfile": "docker",
+        "docker-compose.yaml": "docker",
     },
     "hidesExplorerArrows": true
 }

@@ -1,3 +1,9 @@
+## [v0.1.9]
+2/20/2025
+
+- Added icon support for Docker
+
+
 ## [v0.1.8]
 1/16/2025
 
