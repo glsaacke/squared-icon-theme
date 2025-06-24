@@ -1,3 +1,9 @@
+# [v0.1.11]
+6/23/25
+
+- Added support for jsx files
+
+
 ## [v0.1.10]
 
 2/20/25

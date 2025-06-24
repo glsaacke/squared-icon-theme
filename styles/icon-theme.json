@@ -70,6 +70,9 @@
         "react": {
             "iconPath": "../icons/file-icons/SQ-React.svg",
         },
+        "reactts": {
+            "iconPath": "../icons/file-icons/SQ-ReactTs.svg",
+        },
         "vite": {
             "iconPath": "../icons/file-icons/SQ-Vite.svg",
         },
@@ -106,6 +109,7 @@
         "test.js": "js-test",
         "csproj": "csproj",
         "jsx": "react",
+        "tsx": "reactts",
         "sln": "csproj",
     },
     "fileNames": {
