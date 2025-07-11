@@ -1,7 +1,13 @@
+# [v0.1.13]
+7/10/25
+
+- Added icon support for razor and svelte files
+
+
 # [v0.1.11]
 6/23/25
 
-- Added support for jsx files
+- Added icon support for tsx files
 
 
 ## [v0.1.10]

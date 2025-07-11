@@ -79,6 +79,12 @@
         "docker": {
             "iconPath": "../icons/file-icons/SQ-Docker.svg",
         },
+        "razor": {
+            "iconPath": "../icons/file-icons/SQ-Razor.svg",
+        },
+        "svelte": {
+            "iconPath": "../icons/file-icons/SQ-Svelte.svg",
+        },
     },
 
     //Associations
@@ -111,6 +117,8 @@
         "jsx": "react",
         "tsx": "reactts",
         "sln": "csproj",
+        "razor": "razor",
+        "svelte": "svelte",
     },
     "fileNames": {
         "README.md": "readme",
