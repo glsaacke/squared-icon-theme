@@ -1,3 +1,9 @@
+# [v0.1.15]
+7//10/25
+
+- Added icon support for Vue and other minor icon edits
+
+
 # [v0.1.13]
 7/10/25
 
