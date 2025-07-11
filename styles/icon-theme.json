@@ -85,6 +85,9 @@
         "svelte": {
             "iconPath": "../icons/file-icons/SQ-Svelte.svg",
         },
+        "vue": {
+            "iconPath": "../icons/file-icons/SQ-Vue.svg",
+        },
     },
 
     //Associations
@@ -119,6 +122,7 @@
         "sln": "csproj",
         "razor": "razor",
         "svelte": "svelte",
+        "vue": "vue",
     },
     "fileNames": {
         "README.md": "readme",
