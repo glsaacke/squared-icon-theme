@@ -17,7 +17,7 @@
    xml:space="preserve"
    sodipodi:docname="SQ-Vue.svg"
    inkscape:version="0.92.4 (5da689c313, 2019-01-14)"><metadata
-     id="metadata873"><rdf:RDF><cc:Work
+     id="metadata851"><rdf:RDF><cc:Work
          rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" /></cc:Work></rdf:RDF></metadata><sodipodi:namedview
      id="namedview1"
@@ -30,14 +30,14 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
      inkscape:zoom="33.139261"
-     inkscape:cx="35.67955"
-     inkscape:cy="23.79204"
+     inkscape:cx="23.854396"
+     inkscape:cy="17.907697"
      inkscape:window-width="3840"
-     inkscape:window-height="2035"
-     inkscape:window-x="-13"
-     inkscape:window-y="-13"
+     inkscape:window-height="2019"
+     inkscape:window-x="-14"
+     inkscape:window-y="-14"
      inkscape:window-maximized="1"
-     inkscape:current-layer="g2"
+     inkscape:current-layer="Layer_1"
      showgrid="false" /><defs
      id="defs1"><inkscape:path-effect
        effect="fillet_chamfer"
@@ -177,15 +177,37 @@
          id="path1"
          inkscape:path-effect="#path-effect4"
          inkscape:original-d="M 6,42 V 6 h 36 v 36 z"
-         style="fill:#151e27;fill-opacity:1" /><g
-         style="fill:none;stroke:none;stroke-opacity:1;stroke-width:0.69561972;stroke-miterlimit:10;stroke-dasharray:none"
-         id="g1462"
-         transform="matrix(1.0895245,0,0,1.0895245,6.567608,8.5728706)"><path
-           id="path1448"
-           d="M 2,4 16,28 30,4 H 24.5 L 16,18.5 7.5,4 Z"
-           inkscape:connector-curvature="0"
-           style="fill:#41b883;stroke:none;stroke-opacity:1;stroke-width:0.69561972;stroke-miterlimit:10;stroke-dasharray:none" /><path
-           id="path1450"
-           d="M 7.5,4 16,18.5 24.5,4 h -5 L 16.0653,10.0126 12.5,4 Z"
-           inkscape:connector-curvature="0"
-           style="fill:#35495e;stroke:none;stroke-opacity:1;stroke-width:0.69561972;stroke-miterlimit:10;stroke-dasharray:none" /></g></g></g></svg>
+         style="fill:#42b580;fill-opacity:1" /><g
+         id="g1128"
+         transform="matrix(0.03668571,0,0,0.03668571,5.56131,8.8001233)"><g
+           display="none"
+           id="Layer_4"
+           style="display:none">
+	<rect
+   id="rect964"
+   height="1200"
+   width="1200"
+   display="inline"
+   y="2.5"
+   x="2.5"
+   style="display:inline;fill:#e2e2e2" />
+</g><g
+           id="Layer_1">
+	<g
+   id="g978"
+   transform="matrix(1.5282055,0,0,1.5282055,-410.18482,-614.06926)">
+		<polygon
+   id="polygon974"
+   points="318.6,460.4 597.3,943.1 876,460.4 661.7,460.4 597.3,571.9 532.9,460.4 "
+   style="fill:#ffffff" />
+		<polygon
+   id="polygon976"
+   points="430.1,460.3 597.3,749.9 764.5,460.3 661.7,460.3 597.3,571.7 532.9,460.3 "
+   style="fill:#35495c" />
+	</g>
+	
+	
+	
+	
+	
+</g></g></g></g></svg>

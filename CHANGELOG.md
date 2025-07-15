@@ -1,5 +1,11 @@
+# [v0.1.16]
+7/14/25
+
+- Minor change to Vue icon
+
+
 # [v0.1.15]
-7//10/25
+7/10/25
 
 - Added icon support for Vue and other minor icon edits
 
